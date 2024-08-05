@@ -91,15 +91,21 @@ layout: default
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
+                {% when 'Review Experience' %}
+                  {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
                 {% when 'skills' %}
+                  {% include resume/skills.liquid %}
+                  {% when 'Teaching Experience' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}
+                  {% include resume/interests.liquid %}
+                {% when 'software' %}
                   {% include resume/interests.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
