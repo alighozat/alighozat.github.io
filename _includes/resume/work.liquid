@@ -22,13 +22,17 @@
               {% if content.location %}
                 <tr>
                   <td>
-                    <p class="location" style="display: none;">
+                    <p class="location" id="location-tag">
                       <i class="fa-solid fa-location-dot iconlocation"></i>
                       {{ content.location }}
                     </p>
                   </td>
                 </tr>
               {% endif %}
+              <script>
+              // Deactivate the tag shape
+              document.getElementById('location-tag').style.display = 'none';
+              </script>
             </tbody>
           </table>
         </div>
