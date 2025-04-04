@@ -93,30 +93,51 @@
   ],
   "awards": [
     {
-      "title": "Top Reviewer Recognition",
-      "date": "2023",
+      "title": "Top Reviewer",
+      "date": "2024",
       "awarder": "Acta Geophysica, Institute of Geophysics, Polish Academy of Sciences/ Springer ",
       "url": "",
       "summary": ""
     },
     {
-      "title": "The Selected Researcher",
+      "title": "Selected Researcher",
+      "date": "2024",
+      "awarder": "Iranian Railway Company",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Top Reviewer",
+      "date": "2023",
+      "awarder": "Acta Geophysica, Institute of Geophysics, Polish Academy of Sciences/ Springer ",
+      "url": "",
+      "summary": ""
+    },
+        {
+      "title": "Ranked 1st among all Civil Engineering students",
+      "date": "2022",
+      "awarder": "Faculty of Civil Engineering, Science and Research Branch of Islamic Azad University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Selected Researcher",
       "date": "2021",
-      "awarder": "Iranian Railway Company, Iran",
+      "awarder": "Iranian Railway Company",
       "url": "",
       "summary": ""
     },
     {
-      "title": "The first Ranked of M.Sc. Alumni Students",
+      "title": "Ranked 1st among all Civil Engineering students",
       "date": "2012",
-      "awarder": "Faculty of Civil Engineering, Shiraz University, Iran",
+      "awarder": "Faculty of Civil Engineering, Shiraz University",
       "url": "",
       "summary": ""
     },
     {
-      "title": "The Selected Research Paper",
+      "title": "Selected Research Paper",
       "date": "2011",
-      "awarder": "Fifth Conference on Environmental Engineering, University of Tehran, Iran",
+      "awarder": "Fifth Conference on Environmental Engineering, University of Tehran",
       "url": "",
       "summary": ""
     }
