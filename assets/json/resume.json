@@ -54,8 +54,8 @@
   ],
   "education": [
     {
-      "institution": "Science and Research Branch of Islamic Azad University, Iran",
-      "location": "Tehran, Iran",
+      "institution": "Science and Research Branch of Islamic Azad University.",
+      "location": "",
       "url": "",
       "area": "Civil Engineering-Water Resources Engineering",
       "studyType": "PhD",
@@ -67,8 +67,8 @@
       ]
     },
     {
-      "institution": "Shiraz University, Iran.",
-      "location": "Shiraz, Iran",
+      "institution": "Shiraz University.",
+      "location": "",
       "url": "",
       "area": "Civil Engineering-Hydraulic Structures ",
       "studyType": "M.Sc",
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "institution": "Arak University, Iran",
-      "location": "Arak, Iran",
+      "institution": "Arak University",
+      "location": "",
       "url": "",
       "area": "Civil Engineering",
       "studyType": "B.Sc",
