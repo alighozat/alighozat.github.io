@@ -22,28 +22,8 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Different Consulting Engineers Companies",
-      "position": "Designer and Supervisor of Hydraulic Structures/Hydrologist",
-      "url": "",
-      "startDate": "2012",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Hydraulic design of structures/Hydrological and hydraulic studies."
-      ]
-    },
-    {
-      "name": "Science and Research Branch of Islamic Azad University, Iran",
-      "position": "Research and Teaching Assistant",
-      "url": "",
-      "startDate": "2014",
-      "endDate": "2021",
-      "summary": "",
-      "highlights": []
-    },
-    {
+  "Experience": [
+        {
       "name": "Iranian Railway Research and Training Center",
       "position": "Research and Development Expert",
       "url": "",
