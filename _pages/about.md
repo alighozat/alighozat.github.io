@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: smallsizeprofpic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <ul><li>Science and Research Branch of the Islamic Azad University</li>
@@ -27,6 +27,7 @@ I earned my Ph.D. degree in Civil Engineering with a specialization in Water Res
 *	Machine Learning and Deep learning
 *	Signal Pre-Processing Methods, Data Processing and Analysis
 *	Remote Sensing, Ground- and Satellite-Based Data
+
 
 
 
